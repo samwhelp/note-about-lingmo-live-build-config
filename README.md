@@ -4,6 +4,8 @@
 
 > [Lingmo Live Build Config 探索筆記](https://github.com/samwhelp/note-about-lingmo-live-build-config)
 
+> [Lingmo OS 探索筆記](https://samwhelp.github.io/note-about-lingmo/)
+
 
 
 
