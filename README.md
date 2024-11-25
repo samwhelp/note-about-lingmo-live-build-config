@@ -65,7 +65,7 @@
 
 ## 連結
 
-| 連結 |
-| ---- |
-| [Debian Live Manual](https://live-team.pages.debian.net/live-manual/html/live-manual/index.en.html) |
+| 連結  | GitHub |
+| ---- | ------ |
+| [Debian Live Manual](https://live-team.pages.debian.net/live-manual/html/live-manual/index.en.html) |  |
 | [Lingmo OS Adjustment](https://samwhelp.github.io/lingmo-adjustment/) | [GitHub](https://github.com/samwhelp/lingmo-adjustment) |
