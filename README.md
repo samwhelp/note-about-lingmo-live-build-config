@@ -9,13 +9,21 @@
 
 ## 主題
 
-* [Project](#project)
-* [Link](#link)
+* [相關討論](#相關討論)
+* [專案](#專案)
+* [連結](#連結)
 
 
 
 
-## Project
+## 相關討論
+
+* [[分享] 如何運用「lingmo-live-build-config」來「自訂產生 Lingmo OS Live ISO」](https://github.com/orgs/LingmoOS/discussions/26)
+
+
+
+
+## 專案
 
 > The project `Lingmo OS / live-build-config` is building skeleton.
 
@@ -55,9 +63,9 @@
 
 
 
-## Link
+## 連結
 
-| Link |
+| 連結 |
 | ---- |
 | [Debian Live Manual](https://live-team.pages.debian.net/live-manual/html/live-manual/index.en.html) |
 | [Lingmo OS Adjustment](https://samwhelp.github.io/lingmo-adjustment/) | [GitHub](https://github.com/samwhelp/lingmo-adjustment) |
