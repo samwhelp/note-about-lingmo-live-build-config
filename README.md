@@ -71,22 +71,6 @@
 
 
 
-## Lingmo OS / Live System
-
-| Account  | Value  |
-| -------- | ------ |
-| Username | `lingmo` |
-| Password | `live` |
-
-若想要移除目前帳號的密碼，可以執行下面指令
-
-``` sh
-sudo passwd -d $(whoami)
-```
-
-
-
-
 ## Boot ISO By GRUB
 
 > 將產出的「iso檔案」放置到「`/opt/iso/lingmo/latest/lingmo.iso`」這個路徑
@@ -123,6 +107,22 @@ menuentry "Lingmo OS" --class Debian {
 
 
 
+## Lingmo OS / Live System
+
+| Account  | Value  |
+| -------- | ------ |
+| Username | `lingmo` |
+| Password | `live` |
+
+若想要移除目前帳號的密碼，可以執行下面指令
+
+``` sh
+sudo passwd -d $(whoami)
+```
+
+
+
+
 ## 連結
 
 | 連結  | GitHub |
@@ -141,6 +141,7 @@ menuentry "Lingmo OS" --class Debian {
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
 | [Lika OS 探索筆記](https://samwhelp.github.io/note-about-lika/) | [GitHub](https://github.com/samwhelp/note-about-lika) |
+| [Lika Live Build Config 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lika-live-build-config) |
 
 
 
