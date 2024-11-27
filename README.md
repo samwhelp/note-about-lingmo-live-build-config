@@ -33,15 +33,18 @@
 
 ## 專案
 
-> The project `Lingmo OS / live-build-config` is building skeleton.
+> 關於「`Lingmo OS / [live-build-config`」這個專案，是「Lingmo OS Live ISO 產生架構」。
 
 | Link |
 | ---- |
 | Lingmo OS / [live-build-config](https://github.com/LingmoOS/live-build-config) |
 
 
-> Please using `another project as following` to start build process.
+> 以下的專案，則是會複製「`Lingmo OS / live-build-config`」這個專案。
 
+> 並將「自訂的設定檔」，覆蓋到「`Lingmo OS / [live-build-config`」這個專案。
+
+> 最後再進行「製作 Lingmo OS Live ISO」的流程。
 
 ### Prototype
 
