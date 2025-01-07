@@ -2,11 +2,11 @@
 
 # 首頁
 
-> Lingmo Live Build Config 探索筆記
+> Lingmo / Live Build Config / 探索筆記
 
 | Link | GitHub |
 | ---- | ------ |
-| [Lingmo Live Build Config 探索筆記](https://samwhelp.github.io/note-about-lingmo-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lingmo-live-build-config) |
+| [Lingmo / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lingmo-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lingmo-live-build-config) |
 | [Lingmo OS 探索筆記](https://samwhelp.github.io/note-about-lingmo/) | [GitHub](https://github.com/samwhelp/note-about-lingmo) |
 
 
@@ -143,7 +143,7 @@ sudo passwd -d $(whoami)
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
 | [Lika OS 探索筆記](https://samwhelp.github.io/note-about-lika/) | [GitHub](https://github.com/samwhelp/note-about-lika) |
-| [Lika Live Build Config 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lika-live-build-config) |
+| [Lika / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lika-live-build-config) |
 
 
 
