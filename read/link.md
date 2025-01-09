@@ -20,6 +20,18 @@ has_children: true
 
 
 
+## Lingmo OS / live-build-config
+
+> /etc/apt/sources.list.d/lingmo_pkg.list
+
+| Link |
+| ---- |
+| Lingmo OS / live-build-config / debian-12 / common / archives / [lingmo_pkg.list.chroot](https://github.com/LingmoOS/live-build-config/blob/debian-12/lingmo-config/common/archives/lingmo_pkg.list.chroot) |
+| Lingmo OS / live-build-config / master / common / archives / [lingmo_pkg.list.chroot](https://github.com/LingmoOS/live-build-config/blob/master/lingmo-config/common/archives/lingmo_pkg.list.chroot) |
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://just-the-docs.github.io/just-the-docs/) ([GitHub](https://github.com/just-the-docs/just-the-docs))
