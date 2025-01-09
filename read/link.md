@@ -30,6 +30,9 @@ has_children: true
 | Lingmo OS / live-build-config / master / common / archives / [lingmo_pkg.list.chroot](https://github.com/LingmoOS/live-build-config/blob/master/lingmo-config/common/archives/lingmo_pkg.list.chroot) |
 
 
+> Debian Live Manual / [Additional repositories](https://live-team.pages.debian.net/live-manual/html/live-manual/customizing-package-installation.en.html#384)
+
+
 
 
 ## Just the Docs
